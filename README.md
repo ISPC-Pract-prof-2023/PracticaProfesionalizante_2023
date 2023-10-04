@@ -10,3 +10,7 @@ Alvarado Karen E. N.	  edithnataly06@gmail.com
 Ledezma	Ricardo Mariano   marianoledezma@gmail.com
 Lobo Gabriel Nahuel	  gabrielnahuellob@gmail.com
 Turrin Margarita	  margaturrin@gmail.com
+
+
+Consideraciones iniciales:
+

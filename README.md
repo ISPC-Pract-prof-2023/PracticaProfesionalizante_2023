@@ -14,3 +14,6 @@ Turrin Margarita	  margaturrin@gmail.com
 
 Consideraciones iniciales:
 
+
+
+Para mayor información consulte nuestra wiki: https://github.com/ISPC-Pract-prof-2023/PracticaProfesionalizante_2023/wiki

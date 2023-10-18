@@ -17,3 +17,5 @@ Consideraciones iniciales:
 
 
 Para mayor información consulte nuestra wiki: https://github.com/ISPC-Pract-prof-2023/PracticaProfesionalizante_2023/wiki
+
+Link Trello: https://trello.com/b/c4axcP5f/practicaprofcdatos2023

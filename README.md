@@ -13,13 +13,13 @@ Integrantes
 
 
 Consideraciones iniciales:
-Objetivo del Proyecto
-● Simular de manera vivencial, la forma de trabajar en un entorno
+Objetivo del Proyecto 
+* Simular de manera vivencial, la forma de trabajar en un entorno
 profesional relacionado con la ciencia de datos e inteligencia
 artificial.
-● Desarrollar habilidades prácticas en el manejo de herramientas,
+* Desarrollar habilidades prácticas en el manejo de herramientas,
 técnicas y metodologías utilizadas en el campo.
-● Fomentar el trabajo en equipo, la comunicación y la resolución de
+* Fomentar el trabajo en equipo, la comunicación y la resolución de
 problemas en situaciones reales.
 ● Potencias las competencias necesarias para insertarse en el mundo
 laboral actual.

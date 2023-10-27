@@ -5,12 +5,11 @@ Integrantes
 
 - Barozzi	Eugenia	          bareuge33@gmail.com
 - Carabajal Belén Micaela	  belenmicaelacarabajal@gmail.com
-- Riquelme Belén Marite	 
-- Alvarado Karen E. N.	  edithnataly06@gmail.com
+- [Riquelme Belen Marite](https://github.com/bely092)
 - Ledezma	Ricardo Mariano   marianoledezma@gmail.com
 - Lobo Gabriel Nahuel	  gabrielnahuellobo@gmail.com
 - Turrin Margarita	  margaturrin@gmail.com
-
+- Alvarado Karen E. N.	  edithnataly06@gmail.com
 
 ### Consideraciones iniciales:
 #### Objetivo del Proyecto 

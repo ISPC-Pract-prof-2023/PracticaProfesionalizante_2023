@@ -25,7 +25,7 @@ problemas en situaciones reales.
 laboral actual.
 Acompañamiento del Proyecto
 
-![Alt text](image-1.png)
+<a href="https://ibb.co/nDj5DCx"><img src="https://i.ibb.co/64Ff4Bj/image-1.png" alt="image-1" border="0"></a>
 
 #### Pilares para el desarrollo
 * Grupal, Colaborativo y Remoto

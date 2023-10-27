@@ -1,17 +1,18 @@
 # PracticaProfesionalizante_2023
-proyecto de practica profesionalizante para Ciencia de Datos- ISPC- 2023 (2 cuatrimestre)
+Proyecto de practica profesionalizante para Ciencia de Datos- ISPC- 2023 (2 cuatrimestre)
 
 Integrantes
 
-- Barozzi	Eugenia	          bareuge33@gmail.com
-- Carabajal Belén Micaela	  belenmicaelacarabajal@gmail.com
+- [Barozzi	Eugenia](https://github.com/BarozziEugenia)
+- [Carabajal Belén Micaela](https://github.com/Belenmcp)
 - [Riquelme Belen Marite](https://github.com/bely092)
-- Ledezma	Ricardo Mariano   marianoledezma@gmail.com
-- Lobo Gabriel Nahuel	  gabrielnahuellobo@gmail.com
-- Turrin Margarita	  margaturrin@gmail.com
-- Alvarado Karen E. N.	  edithnataly06@gmail.com
+- [Ledezma	Ricardo Mariano](https://github.com/mledezma2022)
+- [Lobo Gabriel Nahuel](https://github.com/Nahulobo10)
 
-### Consideraciones iniciales:
+
+<hr>
+
+## Consideraciones iniciales:
 #### Objetivo del Proyecto 
 * Simular de manera vivencial, la forma de trabajar en un entorno
 profesional relacionado con la ciencia de datos e inteligencia
@@ -50,24 +51,25 @@ Acompañamiento del Proyecto
 * De acuerdo a esto evaluar entornos de desarrollo (libre a elección del team).
 * Carga de datos (puede ser de diversos orígenes/ formatos)
  Fase de análisis exploratorio de datos
-○ Análisis sobre los datos
-○ Tratamiento de los datos anómalos.
-● Inspección gráfica de los estadísticos
-○ Observar de manera gráfica si se aprecia relación entre "y" y las "X" (ekis).
-○ Análisis de datos atípicos.
-○ Distribución de probabilidad de las muestras.
+* Análisis sobre los datos
+* Tratamiento de los datos anómalos.
+* Inspección gráfica de los estadísticos
+* Observar de manera gráfica si se aprecia relación entre "y" y las "X" (ekis).
+* Análisis de datos atípicos.
+* Distribución de probabilidad de las muestras.
 
 Definir modelos a entrenar.
-○ Al finalizar el ciclo, evaluar el costo computacional (o sea, poner un timer).
-● Calcular métricas
-○ Calcular los estadísticos (test y sus pruebas para determinar la consistencia)
-● Evaluar modelos
-○ Determinar qué tipo de problema tiene el modelo y valorar los errores (bias,
+* Al finalizar el ciclo, evaluar el costo computacional (o sea, poner un timer).
+* Calcular métricas
+* Calcular los estadísticos (test y sus pruebas para determinar la consistencia)
+* Evaluar modelos
+* Determinar qué tipo de problema tiene el modelo y valorar los errores (bias,
 varianza y error irreductible)
-● Conclusión y futuro plan de acción para iniciar otro ciclo
-○ Evaluar hiper parámetros y estrategias de entrenamiento.
+* Conclusión y futuro plan de acción para iniciar otro ciclo
+* Evaluar hiper parámetros y estrategias de entrenamiento.
 Repetir esto hasta lograr un modelo consistente y de performante
 
->Para mayor información consulte nuestra wiki: https://github.com/ISPC-Pract-prof-2023/PracticaProfesionalizante_2023/wiki
+>Para mayor información consulte [Nuestra wiki](https://github.com/ISPC-Pract-prof-2023/PracticaProfesionalizante_2023/wiki)
+<br>
 
 >Link Trello: https://trello.com/b/c4axcP5f/practicaprofcdatos2023

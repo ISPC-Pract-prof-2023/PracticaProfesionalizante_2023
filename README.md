@@ -3,14 +3,12 @@ Proyecto de practica profesionalizante para Ciencia de Datos- ISPC- 2023 (2 cuat
 
 Integrantes
 
-- [Barozzi	Eugenia](https://github.com/BarozziEugenia)
+- [Barozzi Eugenia](https://github.com/BarozziEugenia)
 - [Carabajal Belén Micaela](https://github.com/Belenmcp)
 - [Riquelme Belen Marite](https://github.com/bely092)
-- [Ledezma	Ricardo Mariano](https://github.com/mledezma2022)
+- [Ledezma Ricardo Mariano](https://github.com/mledezma2022)
 - [Lobo Gabriel Nahuel](https://github.com/Nahulobo10)
 
-
-<hr>
 
 ## Consideraciones iniciales:
 #### Objetivo del Proyecto 
@@ -70,6 +68,5 @@ varianza y error irreductible)
 Repetir esto hasta lograr un modelo consistente y de performante
 
 >Para mayor información consulte [Nuestra wiki](https://github.com/ISPC-Pract-prof-2023/PracticaProfesionalizante_2023/wiki)
-<br>
-
+>
 >Link Trello: https://trello.com/b/c4axcP5f/practicaprofcdatos2023

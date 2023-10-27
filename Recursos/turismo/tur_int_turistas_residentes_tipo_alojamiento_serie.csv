@@ -1,0 +1,321 @@
+﻿indice_tiempo,tipo_alojamiento,turistas
+2012-01-01,Camping,1101861
+2012-01-01,Hotel o similar hasta 3 estrellas,2180408
+2012-01-01,Hotel similar 4 o 5 estrellas,381415
+2012-01-01,Resto,82923
+2012-01-01,Segunda vivienda del hogar,1976148
+2012-01-01,Vivienda alquilada por temporada,2261466
+2012-01-01,Vivienda de familiares y amigos,4489645
+2012-04-01,Camping,225442
+2012-04-01,Hotel o similar hasta 3 estrellas,1078891
+2012-04-01,Hotel similar 4 o 5 estrellas,129330
+2012-04-01,Resto,39518
+2012-04-01,Segunda vivienda del hogar,1040444
+2012-04-01,Vivienda alquilada por temporada,227638
+2012-04-01,Vivienda de familiares y amigos,2683201
+2012-07-01,Camping,230254
+2012-07-01,Hotel o similar hasta 3 estrellas,1323383
+2012-07-01,Hotel similar 4 o 5 estrellas,267781
+2012-07-01,Resto,87897
+2012-07-01,Segunda vivienda del hogar,794546
+2012-07-01,Vivienda alquilada por temporada,163214
+2012-07-01,Vivienda de familiares y amigos,2617789
+2012-10-01,Camping,570121
+2012-10-01,Hotel o similar hasta 3 estrellas,1395381
+2012-10-01,Hotel similar 4 o 5 estrellas,268396
+2012-10-01,Resto,22856
+2012-10-01,Segunda vivienda del hogar,1033366
+2012-10-01,Vivienda alquilada por temporada,168626
+2012-10-01,Vivienda de familiares y amigos,2488640
+2013-01-01,Camping,940048
+2013-01-01,Hotel o similar hasta 3 estrellas,2174678
+2013-01-01,Hotel similar 4 o 5 estrellas,287000
+2013-01-01,Resto,50125
+2013-01-01,Segunda vivienda del hogar,1474101
+2013-01-01,Vivienda alquilada por temporada,1865890
+2013-01-01,Vivienda de familiares y amigos,4477698
+2013-04-01,Camping,173138
+2013-04-01,Hotel o similar hasta 3 estrellas,1265232
+2013-04-01,Hotel similar 4 o 5 estrellas,198805
+2013-04-01,Resto,48195
+2013-04-01,Segunda vivienda del hogar,926553
+2013-04-01,Vivienda alquilada por temporada,208483
+2013-04-01,Vivienda de familiares y amigos,2851861
+2013-07-01,Camping,107885
+2013-07-01,Hotel o similar hasta 3 estrellas,1412547
+2013-07-01,Hotel similar 4 o 5 estrellas,239513
+2013-07-01,Resto,32738
+2013-07-01,Segunda vivienda del hogar,1050284
+2013-07-01,Vivienda alquilada por temporada,181556
+2013-07-01,Vivienda de familiares y amigos,3569233
+2013-10-01,Camping,364143
+2013-10-01,Hotel o similar hasta 3 estrellas,1417317
+2013-10-01,Hotel similar 4 o 5 estrellas,261167
+2013-10-01,Resto,35751
+2013-10-01,Segunda vivienda del hogar,1009511
+2013-10-01,Vivienda alquilada por temporada,301885
+2013-10-01,Vivienda de familiares y amigos,3317486
+2014-01-01,Camping,761752
+2014-01-01,Hotel o similar hasta 3 estrellas,2331095
+2014-01-01,Hotel similar 4 o 5 estrellas,261195
+2014-01-01,Resto,15096
+2014-01-01,Segunda vivienda del hogar,1067770
+2014-01-01,Vivienda alquilada por temporada,1669987
+2014-01-01,Vivienda de familiares y amigos,5545719
+2014-04-01,Camping,180090
+2014-04-01,Hotel o similar hasta 3 estrellas,1283379
+2014-04-01,Hotel similar 4 o 5 estrellas,104376
+2014-04-01,Resto,14842
+2014-04-01,Segunda vivienda del hogar,1015146
+2014-04-01,Vivienda alquilada por temporada,177122
+2014-04-01,Vivienda de familiares y amigos,2693090
+2014-07-01,Camping,127274
+2014-07-01,Hotel o similar hasta 3 estrellas,1490360
+2014-07-01,Hotel similar 4 o 5 estrellas,155709
+2014-07-01,Resto,30850
+2014-07-01,Segunda vivienda del hogar,1459037
+2014-07-01,Vivienda alquilada por temporada,289121
+2014-07-01,Vivienda de familiares y amigos,2702269
+2014-10-01,Camping,205272
+2014-10-01,Hotel o similar hasta 3 estrellas,1329416
+2014-10-01,Hotel similar 4 o 5 estrellas,165816
+2014-10-01,Resto,19991
+2014-10-01,Segunda vivienda del hogar,693979
+2014-10-01,Vivienda alquilada por temporada,241487
+2014-10-01,Vivienda de familiares y amigos,2892325
+2015-01-01,Camping,999037
+2015-01-01,Hotel o similar hasta 3 estrellas,2183400
+2015-01-01,Hotel similar 4 o 5 estrellas,247217
+2015-01-01,Resto,50969
+2015-01-01,Segunda vivienda del hogar,642786
+2015-01-01,Vivienda alquilada por temporada,2411339
+2015-01-01,Vivienda de familiares y amigos,5137728
+2015-04-01,Camping,326232
+2015-04-01,Hotel o similar hasta 3 estrellas,1109571
+2015-04-01,Hotel similar 4 o 5 estrellas,96859
+2015-04-01,Resto,31557
+2015-04-01,Segunda vivienda del hogar,672359
+2015-04-01,Vivienda alquilada por temporada,171243
+2015-04-01,Vivienda de familiares y amigos,2322852
+2015-07-01,Camping,139216
+2015-07-01,Hotel o similar hasta 3 estrellas,1853682
+2015-07-01,Hotel similar 4 o 5 estrellas,189508
+2015-07-01,Resto,50128
+2015-07-01,Segunda vivienda del hogar,474227
+2015-07-01,Vivienda alquilada por temporada,304801
+2015-07-01,Vivienda de familiares y amigos,2594606
+2015-10-01,Camping,139490
+2015-10-01,Hotel o similar hasta 3 estrellas,1260451
+2015-10-01,Hotel similar 4 o 5 estrellas,237765
+2015-10-01,Resto,33521
+2015-10-01,Segunda vivienda del hogar,607594
+2015-10-01,Vivienda alquilada por temporada,129378
+2015-10-01,Vivienda de familiares y amigos,2755278
+2016-01-01,Camping,674168
+2016-01-01,Hotel o similar hasta 3 estrellas,2340136
+2016-01-01,Hotel similar 4 o 5 estrellas,242946
+2016-01-01,Resto,18906
+2016-01-01,Segunda vivienda del hogar,598359
+2016-01-01,Vivienda alquilada por temporada,1872663
+2016-01-01,Vivienda de familiares y amigos,4053509
+2016-04-01,Camping,76337
+2016-04-01,Hotel o similar hasta 3 estrellas,771542
+2016-04-01,Hotel similar 4 o 5 estrellas,69730
+2016-04-01,Resto,8184
+2016-04-01,Segunda vivienda del hogar,323914
+2016-04-01,Vivienda alquilada por temporada,174136
+2016-04-01,Vivienda de familiares y amigos,1767912
+2016-07-01,Camping,164894
+2016-07-01,Hotel o similar hasta 3 estrellas,1670316
+2016-07-01,Hotel similar 4 o 5 estrellas,254861
+2016-07-01,Resto,9200
+2016-07-01,Segunda vivienda del hogar,1318982
+2016-07-01,Vivienda alquilada por temporada,426253
+2016-07-01,Vivienda de familiares y amigos,2639197
+2016-10-01,Camping,157369
+2016-10-01,Hotel o similar hasta 3 estrellas,1783262
+2016-10-01,Hotel similar 4 o 5 estrellas,192562
+2016-10-01,Resto,8658
+2016-10-01,Segunda vivienda del hogar,833463
+2016-10-01,Vivienda alquilada por temporada,290976
+2016-10-01,Vivienda de familiares y amigos,2822470
+2017-01-01,Camping,516508
+2017-01-01,Hotel o similar hasta 3 estrellas,2804427
+2017-01-01,Hotel similar 4 o 5 estrellas,173714
+2017-01-01,Resto,10602
+2017-01-01,Segunda vivienda del hogar,965975
+2017-01-01,Vivienda alquilada por temporada,2134839
+2017-01-01,Vivienda de familiares y amigos,3750985
+2017-04-01,Camping,61366
+2017-04-01,Hotel o similar hasta 3 estrellas,1254794
+2017-04-01,Hotel similar 4 o 5 estrellas,106480
+2017-04-01,Resto,17378
+2017-04-01,Segunda vivienda del hogar,907118
+2017-04-01,Vivienda alquilada por temporada,306732
+2017-04-01,Vivienda de familiares y amigos,1972326
+2017-07-01,Camping,105073
+2017-07-01,Hotel o similar hasta 3 estrellas,2286342
+2017-07-01,Hotel similar 4 o 5 estrellas,226472
+2017-07-01,Resto,53238
+2017-07-01,Segunda vivienda del hogar,1834725
+2017-07-01,Vivienda alquilada por temporada,387342
+2017-07-01,Vivienda de familiares y amigos,3510642
+2017-10-01,Camping,302071
+2017-10-01,Hotel o similar hasta 3 estrellas,1641091
+2017-10-01,Hotel similar 4 o 5 estrellas,246228
+2017-10-01,Resto,52620
+2017-10-01,Segunda vivienda del hogar,955081
+2017-10-01,Vivienda alquilada por temporada,554432
+2017-10-01,Vivienda de familiares y amigos,3236284
+2018-01-01,Camping,679519
+2018-01-01,Hotel o similar hasta 3 estrellas,2449496
+2018-01-01,Hotel similar 4 o 5 estrellas,199039
+2018-01-01,Resto,33581
+2018-01-01,Segunda vivienda del hogar,1736196
+2018-01-01,Vivienda alquilada por temporada,1887785
+2018-01-01,Vivienda de familiares y amigos,4435749
+2018-04-01,Camping,37106
+2018-04-01,Hotel o similar hasta 3 estrellas,1223933
+2018-04-01,Hotel similar 4 o 5 estrellas,124512
+2018-04-01,Resto,10490
+2018-04-01,Segunda vivienda del hogar,815033
+2018-04-01,Vivienda alquilada por temporada,196722
+2018-04-01,Vivienda de familiares y amigos,1795197
+2018-07-01,Camping,80369
+2018-07-01,Hotel o similar hasta 3 estrellas,1349804
+2018-07-01,Hotel similar 4 o 5 estrellas,126852
+2018-07-01,Resto,21045
+2018-07-01,Segunda vivienda del hogar,1166599
+2018-07-01,Vivienda alquilada por temporada,287403
+2018-07-01,Vivienda de familiares y amigos,2461154
+2018-10-01,Camping,128472
+2018-10-01,Hotel o similar hasta 3 estrellas,1372439
+2018-10-01,Hotel similar 4 o 5 estrellas,80645
+2018-10-01,Resto,47087
+2018-10-01,Segunda vivienda del hogar,1878738
+2018-10-01,Vivienda alquilada por temporada,430916
+2018-10-01,Vivienda de familiares y amigos,2466529
+2019-01-01,Camping,398480
+2019-01-01,Hotel o similar hasta 3 estrellas,1959277
+2019-01-01,Hotel similar 4 o 5 estrellas,274988
+2019-01-01,Resto,32395
+2019-01-01,Segunda vivienda del hogar,1510014
+2019-01-01,Vivienda alquilada por temporada,1926284
+2019-01-01,Vivienda de familiares y amigos,3859293
+2019-04-01,Camping,41345
+2019-04-01,Hotel o similar hasta 3 estrellas,908872
+2019-04-01,Hotel similar 4 o 5 estrellas,122466
+2019-04-01,Resto,5158
+2019-04-01,Segunda vivienda del hogar,1005475
+2019-04-01,Vivienda alquilada por temporada,267438
+2019-04-01,Vivienda de familiares y amigos,1925556
+2019-07-01,Camping,145785
+2019-07-01,Hotel o similar hasta 3 estrellas,1425227
+2019-07-01,Hotel similar 4 o 5 estrellas,220822
+2019-07-01,Resto,14569
+2019-07-01,Segunda vivienda del hogar,1181034
+2019-07-01,Vivienda alquilada por temporada,396908
+2019-07-01,Vivienda de familiares y amigos,2714919
+2019-10-01,Camping,255252
+2019-10-01,Hotel o similar hasta 3 estrellas,1200530
+2019-10-01,Hotel similar 4 o 5 estrellas,227791
+2019-10-01,Resto,20877
+2019-10-01,Segunda vivienda del hogar,1246926
+2019-10-01,Vivienda alquilada por temporada,630990
+2019-10-01,Vivienda de familiares y amigos,2838045
+2020-01-01,Camping,353241
+2020-01-01,Hotel o similar hasta 3 estrellas,1780057
+2020-01-01,Hotel similar 4 o 5 estrellas,244027
+2020-01-01,Resto,22111
+2020-01-01,Segunda vivienda del hogar,1091953
+2020-01-01,Vivienda alquilada por temporada,1709776
+2020-01-01,Vivienda de familiares y amigos,3589906
+2020-04-01,Hotel o similar hasta 3 estrellas,19052
+2020-04-01,Hotel similar 4 o 5 estrellas,600
+2020-04-01,Resto,341
+2020-04-01,Segunda vivienda del hogar,60060
+2020-04-01,Vivienda alquilada por temporada,988
+2020-04-01,Vivienda de familiares y amigos,93822
+2020-07-01,Hotel o similar hasta 3 estrellas,27435
+2020-07-01,Hotel similar 4 o 5 estrellas,1846
+2020-07-01,Resto,51873
+2020-07-01,Segunda vivienda del hogar,347052
+2020-07-01,Vivienda alquilada por temporada,9281
+2020-07-01,Vivienda de familiares y amigos,222876
+2020-10-01,Camping,9747
+2020-10-01,Hotel o similar hasta 3 estrellas,163482
+2020-10-01,Hotel similar 4 o 5 estrellas,39423
+2020-10-01,Resto,11282
+2020-10-01,Segunda vivienda del hogar,1127308
+2020-10-01,Vivienda alquilada por temporada,209210
+2020-10-01,Vivienda de familiares y amigos,1111990
+2021-01-01,Camping,165778
+2021-01-01,Hotel o similar hasta 3 estrellas,1086364
+2021-01-01,Hotel similar 4 o 5 estrellas,84179
+2021-01-01,Resto,24253
+2021-01-01,Segunda vivienda del hogar,1581543
+2021-01-01,Vivienda alquilada por temporada,1113784
+2021-01-01,Vivienda de familiares y amigos,2174700
+2021-04-01,Camping,38799
+2021-04-01,Hotel o similar hasta 3 estrellas,307625
+2021-04-01,Hotel similar 4 o 5 estrellas,61391
+2021-04-01,Resto,3152
+2021-04-01,Segunda vivienda del hogar,510852
+2021-04-01,Vivienda alquilada por temporada,158794
+2021-04-01,Vivienda de familiares y amigos,1168380
+2021-07-01,Camping,184052
+2021-07-01,Hotel o similar hasta 3 estrellas,968043
+2021-07-01,Hotel similar 4 o 5 estrellas,235475
+2021-07-01,Resto,32335
+2021-07-01,Segunda vivienda del hogar,898643
+2021-07-01,Vivienda alquilada por temporada,209102
+2021-07-01,Vivienda de familiares y amigos,1558969
+2021-10-01,Camping,209669
+2021-10-01,Hotel o similar hasta 3 estrellas,1619531
+2021-10-01,Hotel similar 4 o 5 estrellas,146828
+2021-10-01,Resto,197751
+2021-10-01,Segunda vivienda del hogar,675553
+2021-10-01,Vivienda alquilada por temporada,235672
+2021-10-01,Vivienda de familiares y amigos,2266253
+2022-01-01,Camping,482299
+2022-01-01,Hotel o similar hasta 3 estrellas,2612061
+2022-01-01,Hotel similar 4 o 5 estrellas,234872
+2022-01-01,Resto,82904
+2022-01-01,Segunda vivienda del hogar,2556773
+2022-01-01,Vivienda alquilada por temporada,3390677
+2022-01-01,Vivienda de familiares y amigos,3028810
+2022-04-01,Camping,113563
+2022-04-01,Hotel o similar hasta 3 estrellas,858359
+2022-04-01,Hotel similar 4 o 5 estrellas,129152
+2022-04-01,Resto,3843
+2022-04-01,Segunda vivienda del hogar,1480746
+2022-04-01,Vivienda alquilada por temporada,673971
+2022-04-01,Vivienda de familiares y amigos,2123279
+2022-07-01,Camping,87430
+2022-07-01,Hotel o similar hasta 3 estrellas,1511545
+2022-07-01,Hotel similar 4 o 5 estrellas,234656
+2022-07-01,Resto,11027
+2022-07-01,Segunda vivienda del hogar,1429765
+2022-07-01,Vivienda alquilada por temporada,710903
+2022-07-01,Vivienda de familiares y amigos,2140974
+2022-10-01,Camping,181465
+2022-10-01,Hotel o similar hasta 3 estrellas,1405670
+2022-10-01,Hotel similar 4 o 5 estrellas,419035
+2022-10-01,Resto,27744
+2022-10-01,Segunda vivienda del hogar,2197037
+2022-10-01,Vivienda alquilada por temporada,774360
+2022-10-01,Vivienda de familiares y amigos,2144347
+2023-01-01,Camping,423248
+2023-01-01,Hotel o similar hasta 3 estrellas,1972729
+2023-01-01,Hotel similar 4 o 5 estrellas,308226
+2023-01-01,Resto,40804
+2023-01-01,Segunda vivienda del hogar,2046430
+2023-01-01,Vivienda alquilada por temporada,2641578
+2023-01-01,Vivienda de familiares y amigos,3686811
+2023-04-01,Camping,76814
+2023-04-01,Hotel o similar hasta 3 estrellas,1420274
+2023-04-01,Hotel similar 4 o 5 estrellas,254850
+2023-04-01,Resto,10074
+2023-04-01,Segunda vivienda del hogar,969656
+2023-04-01,Vivienda alquilada por temporada,579970
+2023-04-01,Vivienda de familiares y amigos,1560803

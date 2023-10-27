@@ -12,8 +12,8 @@ Integrantes
 - Turrin Margarita	  margaturrin@gmail.com
 
 
-Consideraciones iniciales:
-Objetivo del Proyecto 
+### Consideraciones iniciales:
+#### Objetivo del Proyecto 
 * Simular de manera vivencial, la forma de trabajar en un entorno
 profesional relacionado con la ciencia de datos e inteligencia
 artificial.
@@ -21,39 +21,36 @@ artificial.
 técnicas y metodologías utilizadas en el campo.
 * Fomentar el trabajo en equipo, la comunicación y la resolución de
 problemas en situaciones reales.
-● Potencias las competencias necesarias para insertarse en el mundo
+* Potencias las competencias necesarias para insertarse en el mundo
 laboral actual.
 Acompañamiento del Proyecto
 
 ![Alt text](image-1.png)
 
-Pilares para el desarrollo
-● Grupal, Colaborativo y Remoto
-● Multidisciplinario
-● Basado en metodologías ágiles
-● El ciclo de vida iterativo e incremental (Sprint)
-● Aprendizaje experiencial y autónomo
-● Seguro y Ético
+#### Pilares para el desarrollo
+* Grupal, Colaborativo y Remoto
+* Multidisciplinario
+* Basado en metodologías ágiles
+* El ciclo de vida iterativo e incremental (Sprint)
+* Aprendizaje experiencial y autónomo
+* Seguro y Ético
 
-Primeros Pasos del Proyecto
-● Conformación de grupos – mínimo 4 y pueden utilizar los ya
-conformados
-● Creación del repositorio remoto y agregado de colaboradores
-● Carga del documento colaborativo del grupo
-● Carga del documento de estudiantes sin grupos o incompletos
-● Armado de Trello por Equipo
-● Cargar una tarjeta con los participantes del Equipo indicando
-quien será el coordinador de equipo
-● Cargar otra tarjeta con el adjunto de la maqueta del proyecto
-propuesto y su estado de evolución
-● Esperar a recibir las observaciones del mismo
-● Realizar el Kickoff del proyecto
+#### Primeros Pasos del Proyecto
+* Conformación de grupos – mínimo 4 y pueden utilizar los ya conformados
+* Creación del repositorio remoto y agregado de colaboradores
+* Carga del documento colaborativo del grupo
+* Carga del documento de estudiantes sin grupos o incompletos
+* Armado de Trello por Equipo
+* Cargar una tarjeta con los participantes del Equipo indicando quien será el coordinador de equipo
+* Cargar otra tarjeta con el adjunto de la maqueta del proyecto propuesto y su estado de evolución
+* Esperar a recibir las observaciones del mismo
+* Realizar el Kickoff del proyecto
 
-Consignas Generales
-● Definir tipo de problema y objetivo.
-○ De acuerdo a esto evaluar entornos de desarrollo (libre a elección del team).
-● Carga de datos (puede ser de diversos orígenes/ formatos)
-● Fase de análisis exploratorio de datos
+#### Consignas Generales
+* Definir tipo de problema y objetivo.
+* De acuerdo a esto evaluar entornos de desarrollo (libre a elección del team).
+* Carga de datos (puede ser de diversos orígenes/ formatos)
+ Fase de análisis exploratorio de datos
 ○ Análisis sobre los datos
 ○ Tratamiento de los datos anómalos.
 ● Inspección gráfica de los estadísticos

@@ -70,5 +70,7 @@ Repetir esto hasta lograr un modelo consistente y de performante
 
 >Para mayor información consulte 
 [Nuestra wiki](https://github.com/ISPC-Pract-prof-2023/PracticaProfesionalizante_2023/wiki)
+
 >Link Trello: https://trello.com/b/c4axcP5f/practicaprofcdatos2023
+
 >Link Informe: https://docs.google.com/document/d/1lg8BIOPH3cqLj-VNxMKYUSSPCylCOLzCYv6JauSkdm8/edit

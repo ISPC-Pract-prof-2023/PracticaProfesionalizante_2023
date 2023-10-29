@@ -1,6 +1,6 @@
 # PracticaProfesionalizante_2023
 [![404212-copia.jpg](https://i.postimg.cc/76ns4rK2/404212-copia.jpg)](https://postimg.cc/2b3FdMRk)
-Proyecto de practica profesionalizante para Ciencia de Datos- ISPC- 2023 (2 cuatrimestre)
+Para Ciencia de Datos- ISPC- 2023 (2 cuatrimestre)
 
 Integrantes
 
@@ -70,5 +70,5 @@ Repetir esto hasta lograr un modelo consistente y de performante
 
 >Para mayor información consulte 
 [Nuestra wiki](https://github.com/ISPC-Pract-prof-2023/PracticaProfesionalizante_2023/wiki)
-
 >Link Trello: https://trello.com/b/c4axcP5f/practicaprofcdatos2023
+>Link Informe: https://docs.google.com/document/d/1lg8BIOPH3cqLj-VNxMKYUSSPCylCOLzCYv6JauSkdm8/edit

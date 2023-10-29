@@ -68,6 +68,7 @@ varianza y error irreductible)
 * Evaluar hiper parámetros y estrategias de entrenamiento.
 Repetir esto hasta lograr un modelo consistente y de performante
 
->Para mayor información consulte [Nuestra wiki](https://github.com/ISPC-Pract-prof-2023/PracticaProfesionalizante_2023/wiki)
->
+>Para mayor información consulte 
+[Nuestra wiki](https://github.com/ISPC-Pract-prof-2023/PracticaProfesionalizante_2023/wiki)
+
 >Link Trello: https://trello.com/b/c4axcP5f/practicaprofcdatos2023

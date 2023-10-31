@@ -79,7 +79,8 @@ Repetir esto hasta lograr un modelo consistente y de performante
 
 Nuestro equipo realiza un proyecto referido al Turismo, Los datos extraidos eleguidos sobre servicios turisticos provienen de : https://www.argentina.gob.ar/economia/politicaeconomica/regionalysectorial/informesproductivos/datasets
 
-Nuestros data set para este proyecto son :
+Nuestros data set para este proyecto son:
+
 -Gasto promedio de turistas residentes en Argentina por región de destino.
 https://raw.githubusercontent.com/ISPC-Pract-prof-2023/PracticaProfesionalizante_2023/main/Recursos/tur_int_turistas_residentes_gasto_promedio_trim_destino_serie.csv
 

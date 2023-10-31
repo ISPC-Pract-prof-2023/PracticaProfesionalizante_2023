@@ -75,20 +75,22 @@ Repetir esto hasta lograr un modelo consistente y de performante
 
 >Link Informe: https://docs.google.com/document/d/1lg8BIOPH3cqLj-VNxMKYUSSPCylCOLzCYv6JauSkdm8/edit
 
+
+
 Nuestro equipo realiza un proyecto referido al Turismo, Los datos extraidos eleguidos sobre servicios turisticos provienen de : https://www.argentina.gob.ar/economia/politicaeconomica/regionalysectorial/informesproductivos/datasets
 
 Nuestros data set para este proyecto son :
-Gasto promedio de turistas residentes en Argentina por región de destino.
+-Gasto promedio de turistas residentes en Argentina por región de destino.
 https://raw.githubusercontent.com/ISPC-Pract-prof-2023/PracticaProfesionalizante_2023/main/Recursos/tur_int_turistas_residentes_gasto_promedio_trim_destino_serie.csv
 
-Cantidad de turistas residentes en Argentina según región de destino de los viajes.
+-Cantidad de turistas residentes en Argentina según región de destino de los viajes.
 https://raw.githubusercontent.com/ISPC-Pract-prof-2023/PracticaProfesionalizante_2023/main/Recursos/tur_int_turistas_residentes_destino_serie.csv
 
-Se junto dos dataset y se reviso si habia nulos,  que informacion tenian y se creo un data nuevo a partir de estos dos relacionando Cantidades de turistas residente en argentina según region  de destino de los viajes por trimestre y gasto promedio de turistas redidentes por región de destino, por trimestre.
-proseguiremos con sumar otro dataset y posteriormente realizar  el modelo de entrenamientoy hacer la prediccion.
+Se juntaron estos dos dataset y se revisó si habia nulos,  que informacion tenian y se creó un data nuevo a partir de estos dos relacionando Cantidades de turistas residente en argentina según region de destino de los viajes por trimestre y gasto promedio de turistas redidentes por región de destino, por trimestre.
+Proseguiremos con sumar otro dataset y posteriormente realizar el modelo de entrenamientoy hacer la predicción.
 
-Gráfico para visualizar la cantidad de turistas residentes de Argentina segun region de viaje:
+-Gráfico para visualizar la cantidad de turistas residentes de Argentina segun region de viaje:
 [![newplot-1.png](https://i.postimg.cc/P5FsLPMW/newplot-1.png)](https://postimg.cc/VJMHpspv)
 
-El Gráfico a continuación muestra un promedio de gasto por región:
+-El Gráfico a continuación muestra un promedio de gasto por región:
 [![newplot.png](https://i.postimg.cc/G2DCndGk/newplot.png)](https://postimg.cc/TLTSr8kw)

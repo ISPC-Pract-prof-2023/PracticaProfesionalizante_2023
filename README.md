@@ -74,3 +74,15 @@ Repetir esto hasta lograr un modelo consistente y de performante
 >Link Trello: https://trello.com/b/c4axcP5f/practicaprofcdatos2023
 
 >Link Informe: https://docs.google.com/document/d/1lg8BIOPH3cqLj-VNxMKYUSSPCylCOLzCYv6JauSkdm8/edit
+
+Nuestro equipo realiza un proyecto referido al Turismo, Los datos extraidos eleguidos sobre servicios turisticos provienen de : https://www.argentina.gob.ar/economia/politicaeconomica/regionalysectorial/informesproductivos/datasets
+
+Nuestros data set para este proyecto son :
+Gasto promedio de turistas residentes en Argentina por región de destino.
+https://raw.githubusercontent.com/ISPC-Pract-prof-2023/PracticaProfesionalizante_2023/main/Recursos/tur_int_turistas_residentes_gasto_promedio_trim_destino_serie.csv
+
+Cantidad de turistas residentes en Argentina según región de destino de los viajes.
+https://raw.githubusercontent.com/ISPC-Pract-prof-2023/PracticaProfesionalizante_2023/main/Recursos/tur_int_turistas_residentes_destino_serie.csv
+
+Se junto dos dataset y se reviso si habia nulos,  que informacion tenian y se creo un data nuevo a partir de estos dos relacionando Cantidades de turistas residente en argentina según region  de destino de los viajes por trimestre y gasto promedio de turistas redidentes por región de destino, por trimestre.
+proseguiremos con sumar otro dataset y posteriormente realizar  el modelo de entrenamientoy hacer la prediccion.

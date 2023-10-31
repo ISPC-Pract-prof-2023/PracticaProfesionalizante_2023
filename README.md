@@ -86,3 +86,9 @@ https://raw.githubusercontent.com/ISPC-Pract-prof-2023/PracticaProfesionalizante
 
 Se junto dos dataset y se reviso si habia nulos,  que informacion tenian y se creo un data nuevo a partir de estos dos relacionando Cantidades de turistas residente en argentina según region  de destino de los viajes por trimestre y gasto promedio de turistas redidentes por región de destino, por trimestre.
 proseguiremos con sumar otro dataset y posteriormente realizar  el modelo de entrenamientoy hacer la prediccion.
+
+Gráfico para visualizar la cantidad de turistas residentes de Argentina segun region de viaje:
+[![newplot-1.png](https://i.postimg.cc/P5FsLPMW/newplot-1.png)](https://postimg.cc/VJMHpspv)
+
+El Gráfico a continuación muestra un promedio de gasto por región:
+[![newplot.png](https://i.postimg.cc/G2DCndGk/newplot.png)](https://postimg.cc/TLTSr8kw)
